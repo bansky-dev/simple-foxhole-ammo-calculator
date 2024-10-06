@@ -1,0 +1,14 @@
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\bin\Debug\net8.0\foxhole-ammo-calculator.exe
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\bin\Debug\net8.0\foxhole-ammo-calculator.deps.json
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\bin\Debug\net8.0\foxhole-ammo-calculator.runtimeconfig.json
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\bin\Debug\net8.0\foxhole-ammo-calculator.dll
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\bin\Debug\net8.0\foxhole-ammo-calculator.pdb
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\obj\Debug\net8.0\foxhole-ammo-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\obj\Debug\net8.0\foxhole-ammo-calculator.AssemblyInfoInputs.cache
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\obj\Debug\net8.0\foxhole-ammo-calculator.AssemblyInfo.cs
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\obj\Debug\net8.0\foxhole-ammo-calculator.csproj.CoreCompileInputs.cache
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\obj\Debug\net8.0\foxhole-ammo-calculator.dll
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\obj\Debug\net8.0\refint\foxhole-ammo-calculator.dll
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\obj\Debug\net8.0\foxhole-ammo-calculator.pdb
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\obj\Debug\net8.0\foxhole-ammo-calculator.genruntimeconfig.cache
+C:\_repos\foxhole-ammo-calculator\foxhole-ammo-calculator\obj\Debug\net8.0\ref\foxhole-ammo-calculator.dll
